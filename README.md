@@ -16,6 +16,8 @@ Use following technologies:
 - .NET Framework 4+
 - Windows Forms
 - C#
+
+
 Send us:
 - complete VS project including compiled program for Win x64 – as self-contained executable.
 - saved Game which we can load and solve using your solver
